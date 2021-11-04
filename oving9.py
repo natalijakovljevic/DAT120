@@ -6,6 +6,7 @@ Created on Wed Nov  3 11:09:40 2021
 @author: natalijakovljevic
 """
 
+<<<<<<< HEAD
 from oving8bc import Sporsmaal
 
 def les_sporsmaal():
@@ -17,3 +18,5 @@ def les_sporsmaal():
             alternativer = alternativer.split(", ")
             liste_sporsmaal.append(Sporsmaal(oppdeltlinje[0], alternativer, oppdeltlinje[1]))
     return liste_sporsmaal
+=======
+>>>>>>> 31e3043af43708b922a22ca2a62c92860c7aa748
